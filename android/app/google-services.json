@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124385863745",
+    "project_id": "academinapp",
+    "storage_bucket": "academinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124385863745:android:2af9a676bf2571da967ec0",
+        "android_client_info": {
+          "package_name": "com.mycompany.seproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGTPOoRejw47636wSN_W9Smmcd0C8E_W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
